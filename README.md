@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxims77
-- 👀 I’m interested in finance ...
+- 👀 I’m interested in optimization in finance and performant systems
 - 🌱 I’m currently learning clojure/clojurescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via github message
