@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxims77
 - 👀 I’m interested in optimization in finance and performant systems
-- 🌱 I’m currently learning clojure/clojurescript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning julia and pentaho PDI
+- 💞️ I’m looking to collaborate on finacial data analysis
 - 📫 How to reach me via github message
 
 <!---
